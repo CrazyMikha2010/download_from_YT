@@ -1,2 +1,3 @@
-# download_from_YT
-Download from YouTube (no VPN needed🤫)
+in development ⚙️
+
+props to this [article](https://habr.com/ru/articles/870110/) for all code
